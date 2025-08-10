@@ -1,5 +1,5 @@
 <?php
 include_once 'frontend/css/index.php';
-include_once 'backend/functions/naturais_num.php';
+include_once 'backend/functions/operacao_naturais.php';
 
 
